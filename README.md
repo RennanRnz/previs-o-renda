@@ -6,7 +6,10 @@ Projeto realizado utilizando '''Streamlit'''
 
 
 
-https://github.com/user-attachments/assets/a2380299-1460-4ea4-bd7d-2600035bb356
+
+
+https://github.com/user-attachments/assets/7117e7b6-a47e-4759-beee-ed7404686ea5
+
 
 
 
